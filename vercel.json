@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "https://catbal-codex.vercel.app/$1" }
+    { "source": "/(.*)", "destination": "https://meowvre.vercel.app/$1" }
   ]
 }
